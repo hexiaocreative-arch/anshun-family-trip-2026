@@ -270,6 +270,11 @@ body.rain-mode .plan.rain { display: block; }
 .source-grid span { color: var(--muted); font-size: 12px; }
 .updated { color: var(--muted); font-size: 12px; margin: 20px 0 0; }
 
+.mangshi-hero .hero-photo img { object-position: center 42%; }
+.mangshi-hero .brand span { background: #d8ef91; color: var(--ink); }
+.intro-copy p:first-child { margin-top: 0; }
+.intro-copy p:last-child { margin-bottom: 0; }
+
 footer { padding: 44px max(20px, calc((100% - 1120px)/2)); background: var(--ink); color: white; display: flex; justify-content: space-between; gap: 20px; align-items: center; }
 footer p { margin: 4px 0 0; color: rgba(255,255,255,.62); }
 
